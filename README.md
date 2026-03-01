@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+# avtosavdo_frontend
